@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+venv/
+.venv/
+
+# Local database / logs
+anomaly.db
+*.log
+
+# Local secrets
+variables.py
+.env
